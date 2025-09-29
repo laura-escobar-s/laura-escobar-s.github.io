@@ -23,7 +23,7 @@ repository               : "laura-escobar-s.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bird.jpeg"
   name             : "Laura Escobar"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in linguistics at the University of Toronto"
